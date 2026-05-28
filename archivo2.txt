@@ -1,3 +1,7 @@
 a
 esto es un test 
+<<<<<<< HEAD
 esto es un test para sourcetree
+=======
+esto es un test para sourcetree12w
+>>>>>>> parent of 1954a2e (conflictos2)
